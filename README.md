@@ -7,11 +7,23 @@
 
 CPU bao gồm: 
 7 thanh ghi 16 bit R0, R1,…, R7: lưu trữ dữ liệu cần thiết 
+
+
 1 bộ mux 9 lối vào, 1 lối ra:  điều khiễn luồng dữ liệu trong CPU 
+
+
 1 bộ ALU: thực hiện phép toán cộng trừ 
+
+
 1 thanh ghi IR 9 bit giải mã lệnh: giúp CPU hiệu lệnh từ ngoài vào 
+
+
 1 bộ đếm chương trình (2 bit): giúp khối điều khiển quản lý tiến trình đang thực hiện 
+
+
 1 bộ điều khiển (CU – Control Unit): điều tiết toàn bộ hoạt động của CPU
+
+
 
 Qui trình hoạt động của CPU:
 
@@ -20,9 +32,17 @@ Qui trình hoạt động của CPU:
 
 
 ✓Lệnh move chỉ thực hiện trong 1 chu kì 
+
+
 ✓ Lệnh add/sub thực hiện nhiều hơn 1 chu kì 
+
+
 ✓ Kết thúc mỗi lệnh CPU xuất ra tín hiệu Done
 
 
+
+
 Các bước thực thi lệnh
+
+
 ![image](https://github.com/user-attachments/assets/c5808100-7231-41d8-9a9e-3a3b67d03cd9)
