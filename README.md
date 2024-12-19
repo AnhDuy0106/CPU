@@ -27,7 +27,9 @@ CPU bao gồm:
 
 Qui trình hoạt động của CPU:
 
-![image](https://github.com/user-attachments/assets/c01c29f3-d011-4015-8432-991c369950a6)
+
+![image](https://github.com/user-attachments/assets/765a78b5-6224-4a8f-8c68-ea0479db9c0f)
+
 
 
 
